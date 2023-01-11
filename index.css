@@ -1,0 +1,20 @@
+.bgtop{
+    background-image: url(./images/portfolio-wallpapers.jpg);
+    min-height: 50vh;
+    min-width: fit-content;
+    
+}
+
+h5{
+    color:#FFFAFA;
+}
+
+.topname {
+    color:#FFFAFA;
+}
+
+.skill{
+    color:#FFFAFA;
+    padding-top: 10px;
+}
+
