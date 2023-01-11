@@ -1,7 +1,7 @@
 .bgtop{
     background-image: url(./images/portfolio-wallpapers.jpg);
     min-height: 50vh;
-    min-width: fit-content;
+    min-width: 100vw;
     
 }
 
@@ -11,6 +11,7 @@ h5{
 
 .topname {
     color:#FFFAFA;
+    font-family: "Sofia", sans-serif;
 }
 
 .skill{
@@ -18,3 +19,23 @@ h5{
     padding-top: 10px;
 }
 
+.proj{
+    color: rgb(10, 10, 10);
+}
+
+.una{
+
+    color: #e70e0e;
+}
+
+.one{
+    font-size: 16px;
+    font-weight: bold;
+    color: #FF8C00;
+}
+
+.two{
+    font-size: 16px;
+    font-weight: bold;
+    color: #0f0f0f;
+}
