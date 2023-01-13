@@ -65,3 +65,29 @@ h5{
     text-decoration: line-through;
 }
 
+#contbg{
+    background-image: url(./images/coffee-bar.jpg);
+    min-height: 100vh;
+    background-size: cover;
+   
+}
+
+#txt{
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#titlebot{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: #000000;
+    font-weight: bolder;
+}
+
+#bgproj{
+    
+        background-image: url(./images/maxresdefault.jpg);
+        min-height: 100vh;
+        background-size: cover;
+
